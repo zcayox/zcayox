@@ -52,7 +52,7 @@ Tenho uma base sólida em **Infraestrutura de Redes**, **Suporte Técnico Corpor
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 CONTATE-ME EM:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cayowilliam)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cayowillian66@gmail.com)
