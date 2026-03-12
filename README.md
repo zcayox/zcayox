@@ -3,8 +3,7 @@
 <img width="1728" height="623" alt="imcayo" src="https://github.com/user-attachments/assets/d1dc34ca-84ca-4d2f-960f-f5ee62e1606e" />
 
 
-Atualmente sou **Estagiário de Service Desk na RioCard Tecnologia da Informação** e graduando em **Redes de Computadores**.  
-Tenho uma base sólida em **Infraestrutura de Redes**, **Suporte Técnico Corporativo** e **Administração de Sistemas**, e estou focando meus estudos no **desenvolvimento de software** e **engenharia de sistemas**.
+Atualmente sou **Técnico de Suporte na NEWSCON** e graduando em **Ciência da Computação**. Tenho uma base sólida em **Infraestrutura de Redes** e **Suporte Técnico**, e estou focando meus estudos no desenvolvimento de software e engenharia de sistemas.
 
 ---
 
