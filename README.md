@@ -24,23 +24,26 @@ Atualmente sou **Técnico de Suporte na NEWSCON** e graduando em **Ciência da C
 
 ## 📈 Trajetória Profissional
 
-**Estagiário Service Desk | RioCard Tecnologia da Informação** *(2025 - Atual)*  
+**Técnico de Suporte | NEWSCON** *(01/2026 - Atual)*
+- Focado em infraestrutura de rede e conectividade.
+
+**Estagiário Service Desk | RioCard Tecnologia da Informação** *(03/2025 - 01/2026)*  
 - Suporte técnico a usuários corporativos  
 - Diagnóstico e resolução de incidentes de TI  
 - Apoio em infraestrutura e segurança de sistemas  
 
-**Auxiliar de Informática | Exército Brasileiro** *(2024 - 2025)*  
+**Tẽcnico de Informática | Exército Brasileiro** *(03/2024 - 02/2025)*  
 - Suporte técnico e infraestrutura de TI  
 - Instalação e manutenção de computadores  
 - Configuração de redes e instalação de CFTV  
 
 ---
 
-## 🎓 Formação Acadêmica
+### 🎓 Formação Acadêmica
 
-**Redes de Computadores** – Universidade Estácio de Sá *(2024 - Atual)*  
+**Ciência da Computação** – Universidade Iguaçu (2026 - 2030).
 
-**Técnico em Telecomunicações** – CEFET/RJ *(2021 - 2023)*  
+**Técnico em Telecomunicações** – CEFET/RJ (2021 - 2023).
 
 ---
 
